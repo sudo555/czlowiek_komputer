@@ -1,0 +1,2 @@
+# czlowiek_komputer
+Projekt
